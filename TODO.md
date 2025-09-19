@@ -1,0 +1,8 @@
+- [x] Implement User model in models.py with columns, password_hash property, authenticate method, and serialize_rules
+- [x] Implement Recipe model in models.py with columns, validation, and serialize_rules
+- [x] Implement Signup endpoint in app.py
+- [x] Implement CheckSession endpoint in app.py
+- [x] Implement Login endpoint in app.py
+- [x] Implement Logout endpoint in app.py
+- [x] Implement RecipeIndex endpoint in app.py (GET and POST)
+- [x] Run pytest to verify all tests pass
